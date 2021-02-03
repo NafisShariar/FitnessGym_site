@@ -10,4 +10,4 @@ A Beautiful home page of a Gym
 - Able to subscribe to newsletter
 - Social Links
 
-[Visit the Site](https://nafisshariar.github.io/FitnessGym_site/)
+[Click here to visit the Site](https://nafisshariar.github.io/FitnessGym_site/)
